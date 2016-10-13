@@ -1,3 +1,3 @@
 <?php
-echo "test-repo111";
+echo "test-repo";
 ?>
